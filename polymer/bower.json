@@ -4,6 +4,8 @@
   "dependencies": {
     "font-roboto": "Polymer/font-roboto#=0.5.5",
     "core.js": "*",
+    "md5": "https://github.com/blueimp/JavaScript-MD5.git#master",
+    "polymer-url": "Polymer/URL#master",
     "core-elements": "Polymer/core-elements#=0.5.5",
     "paper-elements": "Polymer/paper-elements#=0.5.5"
   },
