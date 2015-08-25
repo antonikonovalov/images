@@ -1,0 +1,20 @@
+{
+  "name": "marketplace",
+  "version": "0.0.4",
+  "dependencies": {
+    "font-roboto": "Polymer/font-roboto#=0.5.5",
+    "core.js": "*",
+    "core-elements": "Polymer/core-elements#=0.5.5",
+    "paper-elements": "Polymer/paper-elements#=0.5.5"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#=2.0.0"
+  },
+  "resolutions": {
+    "webcomponentsjs": "0.5.5",
+    "polymer": "0.5.5",
+    "core-elements": "0.5.5",
+    "paper-elements": "0.5.5",
+    "paper-button": "0.5.5"
+  }
+}
